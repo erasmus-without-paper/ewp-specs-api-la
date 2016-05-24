@@ -1,4 +1,4 @@
-Learning Agreement API
+DEPRECATED - Learning Agreement API
 ======================
 
 * [What is the status of this document?][statuses]
