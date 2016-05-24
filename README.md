@@ -1,6 +1,8 @@
 DEPRECATED - Learning Agreement API
 ======================
 
+**DEPRECATED: This proposal was replaced by [Outgoing Mobilities API](https://github.com/erasmus-without-paper/ewp-specs-api-mobilities).**
+
 * [What is the status of this document?][statuses]
 * [See the index of all other EWP Specifications][develhub]
 
